@@ -41,12 +41,3 @@
 - 🔍 **Problem solver** — Experienced in troubleshooting real-world pipeline failures and system bottlenecks.
 - 🧠 **Continuous learner** — Hands-on experience scaling infrastructure and automating deployments.
 
----
-
-### 📊 GitHub Stats:
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=susanthika21&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
-</p>
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=susanthika21&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-</p>
